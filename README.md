@@ -1,0 +1,2 @@
+# GeneralPatterns-claudiutodorutaurea
+general pattern
